@@ -1,0 +1,11 @@
+html{
+  color:white;
+  background-image: url("635967554402822782-bigdipper.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1{
+  background: linear-gradient(red,orange,green,blue,purple);
+}
