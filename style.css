@@ -11,6 +11,10 @@ ul li{
   font-family: "ヒラギノ丸ゴ Pro W4";
   font-weight: bold;  
 }
+ul li a{
+  font-family: "ヒラギノ丸ゴ Pro W4";
+  font-weight: bold;
+}
 html{
   color:white;
   background-image: url("nyancat.gif");
